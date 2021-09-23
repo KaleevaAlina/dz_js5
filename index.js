@@ -1,4 +1,4 @@
-"use strict"
+//"use strict"
 //Задание 1
 async function getTasks(){
 	let arr;	
